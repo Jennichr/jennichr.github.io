@@ -72,18 +72,13 @@
     }
   }
 
-  .dark-mode {
-    position: absolute;
-    left: 90%;
-    top: 2%;
-    width: 38pt;
-    height: 38pt;
+  @keyframes example {
+    from {width: 0px;}
+    to {width: 300px;}
   }
 
-  .sweet-mode {
-    position: absolute;
-    left: 90%;
-    top: 11%;
-    width: 38pt;
-    height: 38pt;
+  #headshot {
+    width: 300px;
+    animation-name: example;
+    animation-duration: 2s;
   }
