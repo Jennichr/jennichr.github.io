@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-gpa/static/css/main.16c1785d.css",
+    "main.js": "/my-gpa/static/js/main.122b9468.js",
+    "static/js/787.6b8a18d8.chunk.js": "/my-gpa/static/js/787.6b8a18d8.chunk.js",
+    "static/media/logo.svg": "/my-gpa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-gpa/index.html",
+    "main.16c1785d.css.map": "/my-gpa/static/css/main.16c1785d.css.map",
+    "main.122b9468.js.map": "/my-gpa/static/js/main.122b9468.js.map",
+    "787.6b8a18d8.chunk.js.map": "/my-gpa/static/js/787.6b8a18d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c1785d.css",
+    "static/js/main.122b9468.js"
+  ]
+}
